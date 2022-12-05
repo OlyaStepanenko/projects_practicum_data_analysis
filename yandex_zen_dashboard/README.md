@@ -30,3 +30,5 @@
 - Python;
 - SQLAlchemy;
 - PowerPoint.
+### Ссылка на дашборд.
+[Взаимодействие пользователей с карточками Яндекс.Дзен.](https://public.tableau.com/app/profile/olga2478/viz/Progectzen/2?publish=yes)
